@@ -1,0 +1,651 @@
+1
+00:00:00,240 --> 00:00:01,140
+Hated everyone.
+
+2
+00:00:01,170 --> 00:00:04,230
+And welcome to the front and double dip or boot camp.
+
+3
+00:00:04,230 --> 00:00:09,690
+So you're already into the course or maybe you are looking just at the free preview to see and check
+
+4
+00:00:09,690 --> 00:00:12,170
+out what are the projects that we are going to build up.
+
+5
+00:00:12,180 --> 00:00:15,880
+So the good news is we are going to build a whole lot of projects.
+
+6
+00:00:16,010 --> 00:00:21,210
+But before I show you all of the projects that we are going to work up and code along in this entire
+
+7
+00:00:21,210 --> 00:00:27,270
+coast Let me just be clear on one point that these are not only the projects which on which we are going
+
+8
+00:00:27,270 --> 00:00:28,370
+to be working.
+
+9
+00:00:28,380 --> 00:00:34,310
+There are a whole set of other projects which we haven't taken into account because they are small and
+
+10
+00:00:34,320 --> 00:00:35,970
+we just don't want to bother about them.
+
+11
+00:00:35,970 --> 00:00:39,580
+But yes we do have many other projects as well.
+
+12
+00:00:39,690 --> 00:00:40,180
+OK.
+
+13
+00:00:40,530 --> 00:00:45,350
+So in case you're wondering why I'm looking at the very top out there the screen is gigantic and camera
+
+14
+00:00:45,350 --> 00:00:46,830
+is long at the top.
+
+15
+00:00:46,830 --> 00:00:52,180
+So before further ado let me talk about these projects that we are going to work up.
+
+16
+00:00:52,230 --> 00:00:53,590
+And these are really good.
+
+17
+00:00:53,670 --> 00:00:59,160
+And in this whole package where we're going to start with HDMI elsea says this is a step by step process
+
+18
+00:00:59,160 --> 00:01:04,400
+out there so HD is says bootstrap javascript J.A.G. and finally project.
+
+19
+00:01:04,440 --> 00:01:06,420
+Everything is going to be in the steps.
+
+20
+00:01:06,450 --> 00:01:12,100
+But on every step we are going to just test those skills by designing a project out there.
+
+21
+00:01:12,240 --> 00:01:13,660
+So let's just talk about that.
+
+22
+00:01:13,710 --> 00:01:18,570
+So here you can see the very first project that we are going to build up is Fitow for Jim.
+
+23
+00:01:18,600 --> 00:01:23,280
+So this is the gym coming soon template and it looks really it looks really great.
+
+24
+00:01:23,460 --> 00:01:28,320
+And this is going to be your first project out there and again remember that this is irresponsive right
+
+25
+00:01:28,350 --> 00:01:28,750
+now.
+
+26
+00:01:28,750 --> 00:01:30,120
+We just try to make it.
+
+27
+00:01:30,330 --> 00:01:32,630
+And this is a pure HVM and nothing else.
+
+28
+00:01:32,990 --> 00:01:36,990
+And thereafter we will move ahead and talk about these kinds of things as well.
+
+29
+00:01:37,110 --> 00:01:44,070
+So this is a sushi restaurant coming soon template with this template utilizes the extremal five things
+
+30
+00:01:44,160 --> 00:01:47,010
+about the videos and there is a back end video as well.
+
+31
+00:01:47,040 --> 00:01:54,840
+Again everything is again responsive without using any of the Wordpress are any but any things like
+
+32
+00:01:54,840 --> 00:01:56,290
+bootstrap and things like that.
+
+33
+00:01:56,340 --> 00:01:57,690
+But again it's really good.
+
+34
+00:01:57,900 --> 00:02:03,090
+So this is going to be project number two and there is a whole lot of separate movies dedicated with
+
+35
+00:02:03,090 --> 00:02:05,990
+the name of the project that you can check out for these.
+
+36
+00:02:06,240 --> 00:02:12,390
+And thereafter we are going to build a tacky truck non-responsive Web site in order to get an idea how
+
+37
+00:02:12,390 --> 00:02:17,670
+responsive are good and how easy it is nowadays to code at a sponsored web site.
+
+38
+00:02:17,670 --> 00:02:22,680
+We're going to talk about how the non-responsive upside used to look like and still there are a lot
+
+39
+00:02:22,680 --> 00:02:27,360
+of corporate sectors and a lot of companies who are still having these Web sites just like this.
+
+40
+00:02:27,390 --> 00:02:33,290
+So we're going to talk about this again just as I togged this is non-responses so doesn't respond to
+
+41
+00:02:33,290 --> 00:02:34,590
+the my size out there.
+
+42
+00:02:34,890 --> 00:02:36,500
+So this is one part.
+
+43
+00:02:36,860 --> 00:02:37,550
+OK.
+
+44
+00:02:37,860 --> 00:02:42,960
+Taqi truck is good and there are a couple of challenges in the truck as well to make sure that you understand
+
+45
+00:02:43,170 --> 00:02:45,000
+how the templates are being edited.
+
+46
+00:02:45,030 --> 00:02:49,860
+One of the most important part of your day to day life job as the front end of our build up here will
+
+47
+00:02:49,860 --> 00:02:53,080
+be to edit the templates for the clients or maybe for your company.
+
+48
+00:02:53,100 --> 00:02:55,480
+So we'll be tackling that as well.
+
+49
+00:02:55,650 --> 00:03:02,940
+Further we will be moving on the To Do list app on this To-Do list app is actually built totally in
+
+50
+00:03:03,060 --> 00:03:06,820
+the CSX and the HDMI.
+
+51
+00:03:07,080 --> 00:03:10,080
+Nothing no jealousy at all but still look at this.
+
+52
+00:03:10,080 --> 00:03:15,660
+This goes out there and everything is being scratched and Maag and great but again everything is being
+
+53
+00:03:15,660 --> 00:03:16,520
+done in HD.
+
+54
+00:03:16,530 --> 00:03:24,300
+Mullins see SS moving further on we are going to build up this technical landing page and this is responsive
+
+55
+00:03:24,800 --> 00:03:26,410
+and a lot of things are happening here.
+
+56
+00:03:26,670 --> 00:03:29,600
+And we will also learn how the media query works out there.
+
+57
+00:03:29,730 --> 00:03:33,720
+So notice as this blue bar out there is going to turn into the green.
+
+58
+00:03:33,930 --> 00:03:34,850
+So there we go.
+
+59
+00:03:34,990 --> 00:03:40,110
+And there we go it turns into the green and here we are going to learn about the media queries how the
+
+60
+00:03:40,110 --> 00:03:44,970
+media queries are responsible for a completely different CSSA So there we go we are going to talk about
+
+61
+00:03:44,970 --> 00:03:45,610
+this.
+
+62
+00:03:45,930 --> 00:03:50,720
+And in case you haven't noticed look at the top menu bar the hamburger bar appears out there.
+
+63
+00:03:51,030 --> 00:03:52,040
+And there we go.
+
+64
+00:03:52,230 --> 00:03:56,670
+And one more thing in this we are going to do is we are going to look up for how these buttons are being
+
+65
+00:03:56,670 --> 00:03:57,220
+placed.
+
+66
+00:03:57,300 --> 00:04:01,840
+So these Facebook and Twitter button are also being policed as a project out there.
+
+67
+00:04:02,100 --> 00:04:07,250
+So we are going to talk about that as well in a separate project and we have many projects you might
+
+68
+00:04:07,310 --> 00:04:08,130
+see out there.
+
+69
+00:04:08,460 --> 00:04:13,980
+And thereafter we are going to move on to a completely different web page project and its a complete
+
+70
+00:04:13,980 --> 00:04:18,510
+full fledged application that you can utilize for maybe your client or your personal use.
+
+71
+00:04:18,540 --> 00:04:25,030
+And I think all of these project in these into our course along with images do come with a license of
+
+72
+00:04:25,030 --> 00:04:26,920
+feel free whatever you want to do with that.
+
+73
+00:04:26,940 --> 00:04:31,950
+Even commercially non-commercially whatever you want to fish in case you haven't noticed.
+
+74
+00:04:31,950 --> 00:04:35,040
+Let me just reload and watch this boy's photo out there.
+
+75
+00:04:35,310 --> 00:04:36,880
+It's a wobbly wobbly photo.
+
+76
+00:04:37,080 --> 00:04:38,370
+So we're going to learn how we can.
+
+77
+00:04:38,360 --> 00:04:43,740
+And he made these things and can apply these kinds of cool effects now after this section we have a
+
+78
+00:04:43,740 --> 00:04:48,320
+very good navigation section image and some content.
+
+79
+00:04:48,390 --> 00:04:50,550
+Again content image image content.
+
+80
+00:04:50,550 --> 00:04:56,220
+So we'll be flipping that all and we'll see how the editors help us to just copy and paste and replace
+
+81
+00:04:56,220 --> 00:05:01,430
+the things out there so this is really great after that try to sell the Yahoo.
+
+82
+00:05:01,510 --> 00:05:04,930
+I know it's already being sold but still we're going to try with this.
+
+83
+00:05:04,930 --> 00:05:06,840
+Nobody is going to buy Yahoo with this page.
+
+84
+00:05:06,860 --> 00:05:10,160
+But these bage are really popular as a landing page.
+
+85
+00:05:10,330 --> 00:05:15,670
+So what you can do you can just buy today selling some items put some items or images out there and
+
+86
+00:05:15,670 --> 00:05:18,150
+people can buy from these kinds of landing pages.
+
+87
+00:05:18,160 --> 00:05:23,200
+So this is really essential for every front end developer for their moving.
+
+88
+00:05:23,200 --> 00:05:25,370
+We do have an admin dashboard Yes.
+
+89
+00:05:25,400 --> 00:05:27,580
+Admin do have front ends as well.
+
+90
+00:05:27,580 --> 00:05:34,600
+Later on we are people just move out there and put some BHB maybe know Jesus or javascript's and things
+
+91
+00:05:34,600 --> 00:05:40,600
+like that onto these templates but his admin dashboard are also a part of a front end development so
+
+92
+00:05:40,600 --> 00:05:42,890
+people like to just give it as it go.
+
+93
+00:05:43,180 --> 00:05:43,810
+So there we go.
+
+94
+00:05:43,800 --> 00:05:49,270
+We do have a simple template of that dashboard notice all the font icons font or some icons are being
+
+95
+00:05:49,270 --> 00:05:52,870
+placed out there and add users categories.
+
+96
+00:05:52,900 --> 00:05:59,110
+These labels some bars out there many bar side bars and the table is there the detail table which is
+
+97
+00:05:59,110 --> 00:06:02,560
+usually populated by the HB or some backend scripts.
+
+98
+00:06:02,830 --> 00:06:05,500
+But this is just different and moving further.
+
+99
+00:06:05,500 --> 00:06:07,360
+We do have a random parser generator.
+
+100
+00:06:07,360 --> 00:06:12,820
+So by now you might have already learned the javascript and thereafter we're going to learn about these
+
+101
+00:06:12,820 --> 00:06:13,360
+things.
+
+102
+00:06:13,540 --> 00:06:17,590
+So this is a random password generator do you just enter whatever the length of the password you need.
+
+103
+00:06:17,590 --> 00:06:23,330
+Let's just say 8 click on the generate password every time it just generates a random password.
+
+104
+00:06:23,350 --> 00:06:27,900
+So we're going to have a look on how these things works and look how cool it is looking.
+
+105
+00:06:28,270 --> 00:06:35,290
+And after that we are going to move on to our simple clock ticking clock which is actually looks really
+
+106
+00:06:35,290 --> 00:06:36,910
+boring but it's really impressive.
+
+107
+00:06:37,150 --> 00:06:41,050
+The background color of the page actually changes based on the time.
+
+108
+00:06:41,050 --> 00:06:45,060
+So these are the hex values so R G B.
+
+109
+00:06:45,400 --> 00:06:51,970
+If I'll stay on this page for a few seconds you will notice this now that the colors do change slightly
+
+110
+00:06:52,040 --> 00:06:58,240
+or so we will learn how we can tackle that and this clock just sticks out and doesn't consume much of
+
+111
+00:06:58,240 --> 00:07:00,550
+the memory out there as well.
+
+112
+00:07:00,550 --> 00:07:06,250
+Finally let's move on to this guy and and thereafter we learn some of the queer defects as well.
+
+113
+00:07:06,250 --> 00:07:09,110
+So after learning that Jake really we'll be talking here as well.
+
+114
+00:07:09,370 --> 00:07:15,850
+So you will learn how this effect is being applied so you can just place two images under there can
+
+115
+00:07:15,850 --> 00:07:21,160
+be a slight it out there of seeing the effect before and after a lot of people do are restoring works
+
+116
+00:07:21,160 --> 00:07:23,880
+out there making all things good and are dead.
+
+117
+00:07:24,070 --> 00:07:28,410
+So recently I happened to tackle these kinds of projects and I've found this crazy plug in.
+
+118
+00:07:28,400 --> 00:07:32,850
+And we will learn how we can utilize that and we will learn how we can do that.
+
+119
+00:07:33,010 --> 00:07:34,650
+So previously it looked like that.
+
+120
+00:07:34,660 --> 00:07:36,100
+And then we made it look like that.
+
+121
+00:07:36,090 --> 00:07:39,110
+So these kinds of things are really handy out there.
+
+122
+00:07:39,120 --> 00:07:42,680
+Thereafter we will move on and look for the type ahead.
+
+123
+00:07:42,880 --> 00:07:46,480
+Now you might have seen that in Google or maybe in the twitter or everything.
+
+124
+00:07:46,480 --> 00:07:49,110
+So let's just say this is a state of USA.
+
+125
+00:07:49,150 --> 00:07:52,390
+And again notice there's a challenge here for the student as well.
+
+126
+00:07:52,540 --> 00:07:55,280
+So let say I am looking for the New York or something.
+
+127
+00:07:55,420 --> 00:08:00,910
+So as I type the new so New Jersey New Mexico is also being suggested as the as I type.
+
+128
+00:08:00,910 --> 00:08:07,840
+And again as I move to the lead just say I'm moving for the Arizona as I type A are automatically based
+
+129
+00:08:07,840 --> 00:08:13,970
+on that the search is being modified so charm of J queries being implemented here.
+
+130
+00:08:14,260 --> 00:08:17,100
+And the challenge here is really simple for the students.
+
+131
+00:08:17,140 --> 00:08:19,690
+But we'll talk about that challenge later on.
+
+132
+00:08:19,990 --> 00:08:20,510
+OK.
+
+133
+00:08:20,740 --> 00:08:26,830
+And finally a final project that will be building up is going to be this Bristowe coffee and it will
+
+134
+00:08:26,830 --> 00:08:30,670
+implement all of the things HVM bootstraps see javascript.
+
+135
+00:08:30,700 --> 00:08:35,650
+Jake ready animations parallax pretty much everything that we have learned is going to be implemented
+
+136
+00:08:35,650 --> 00:08:36,160
+here.
+
+137
+00:08:36,700 --> 00:08:43,000
+And we can see that this Bristo coffee is keep jumping but do notice this and a little more some time
+
+138
+00:08:43,000 --> 00:08:47,460
+button as I reload this get severe believably effect out there as well.
+
+139
+00:08:47,470 --> 00:08:51,840
+So this is what we're going to be doing some servers section three columns here.
+
+140
+00:08:52,510 --> 00:08:57,660
+And then the portfolio Web site some nice neat images are being placed here.
+
+141
+00:08:57,800 --> 00:09:01,210
+And artists do notice the parallax effect that we have implemented here.
+
+142
+00:09:01,240 --> 00:09:07,420
+This is a parallax effect and Feliks is so easy to implement out there and we're going to talk about
+
+143
+00:09:07,420 --> 00:09:08,450
+that as well.
+
+144
+00:09:08,450 --> 00:09:12,610
+Here we have implemented that do not is this be a part of our team again.
+
+145
+00:09:12,610 --> 00:09:18,750
+Wibbly Wobbly the kind of effect that we will implement are there and some amazing team we do have Mark
+
+146
+00:09:18,760 --> 00:09:22,180
+John and Peter three little kids doing a lot of jobs.
+
+147
+00:09:22,180 --> 00:09:28,090
+Wibbly Wobbly here and there and we're going to learn and they're off to notice the Perlitz and the
+
+148
+00:09:28,120 --> 00:09:30,060
+some code would look great here.
+
+149
+00:09:30,280 --> 00:09:35,000
+Very tiny but still giving a little glance too over perfection out there.
+
+150
+00:09:35,060 --> 00:09:37,010
+I noticed this is a parallax effect.
+
+151
+00:09:37,290 --> 00:09:43,420
+And there we go finally we have a contact form are there and all of these images and pretty much everything
+
+152
+00:09:43,450 --> 00:09:47,590
+are just open source so just feel free to do whatever you want to do with them.
+
+153
+00:09:47,920 --> 00:09:52,900
+So these are all the project overview that we are going to building up and all these projects are going
+
+154
+00:09:52,900 --> 00:09:55,120
+to get started from the very scratch.
+
+155
+00:09:55,210 --> 00:09:56,630
+No problem at all.
+
+156
+00:09:56,950 --> 00:09:58,890
+Not be copy and pasting the code.
+
+157
+00:09:58,930 --> 00:10:00,980
+I'll be writing what's in front of you.
+
+158
+00:10:01,050 --> 00:10:02,950
+But again everything is being polished.
+
+159
+00:10:03,040 --> 00:10:08,350
+You will not see any blunders or things like that or Sanaz and a lot of hours are thinking's nothing
+
+160
+00:10:08,350 --> 00:10:09,040
+that.
+
+161
+00:10:09,250 --> 00:10:15,400
+And let's just go ahead and try to make these projects once we take out the theoretical part and some
+
+162
+00:10:15,400 --> 00:10:16,950
+writing code challenges as well.
+
+163
+00:10:17,140 --> 00:10:19,780
+So see are there in the next movie.
